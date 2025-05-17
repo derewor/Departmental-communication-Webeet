@@ -1,0 +1,17 @@
+,sender_team_name,replier_team_name,thread_count,avg_reply_hours
+0,engineering-team,security-team,36,29.990277777777777
+1,data-team,engineering-team,31,21.948055555555555
+2,security-team,engineering-team,25,17.37388888888889
+3,data-team,security-team,22,11.986388888888888
+4,security-team,data-team,19,7.633333333333333
+5,engineering-team,data-team,36,3.669722222222222
+6,leads,leads,487,0.6383333333333333
+7,engineering-team,engineering-team,267,0.5219444444444445
+8,security-team,security-team,191,0.5030555555555556
+9,data-team,data-team,256,0.31666666666666665
+10,leads,security-team,127,0.11361111111111112
+11,leads,data-team,203,0.10472222222222223
+12,data-team,leads,198,0.09638888888888889
+13,leads,engineering-team,256,0.08055555555555555
+14,security-team,leads,130,0.06972222222222223
+15,engineering-team,leads,257,0.0625
